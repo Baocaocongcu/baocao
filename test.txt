@@ -1,1 +1,2 @@
 test nhanh cua can lan thu 2
+test git integration
